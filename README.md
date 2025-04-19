@@ -57,6 +57,7 @@ Average order spending by couples:Bar chart showing price preferance of couples.
 Payment method: Boxplot analyzing online or offline which mode of payment got more rating.
 
 Restaurant Type Based on order mode:Heatmap showing order distribution of different resturants based on online payment or offline.
+
 📌 Future Improvements
 Add predictive modeling (e.g., forecasting future sales)
 
